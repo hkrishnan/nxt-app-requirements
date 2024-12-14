@@ -1,8 +1,1 @@
-# NXT Application Requirements
-
-This repository contains requirements documentation for NXT applications.
-
-## Structure
-
-- `/nxt-tools/` - Requirements for NXT Tools application
-- `/docs/` - General documentation and guidelines
+IyBOWFQgQXBwbGljYXRpb24gUmVxdWlyZW1lbnRzCgpUaGlzIHJlcG9zaXRvcnkgY29udGFpbnMgcmVxdWlyZW1lbnRzIGRvY3VtZW50YXRpb24gZm9yIE5YVCBhcHBsaWNhdGlvbnMuCgojIyBTdHJ1Y3R1cmUKCi0gYC9ueHQtdG9vbHMvYCAtIFJlcXVpcmVtZW50cyBmb3IgTlhUIFRvb2xzIGFwcGxpY2F0aW9uCi0gYC9kb2NzL2AgLSBHZW5lcmFsIGRvY3VtZW50YXRpb24gYW5kIGd1aWRlbGluZXM=
